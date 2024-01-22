@@ -8,4 +8,5 @@ class EmptyClass:
             print("Параметр динамічний номер:", dynamic_number)
 
 my_instance = EmptyClass()
+
 my_instance.iterate_and_print()
